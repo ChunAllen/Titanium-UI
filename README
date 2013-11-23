@@ -1,4 +1,10 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Getting Started with Titanium Appcelerator Mobile Development
+
+Description: 
+
+This projects works with Android and iOS devices using only javascript framework from Appcelerator.
+Titanium Appcelerator's goal is to have a rich native app to your desired devices. 
+Coding with Titanium Appcelerator uses only Javascript to work with native Android and iOS app.
 
 This is a single window application with a single view - a mostly blank canvas. Requires Titanium Mobile SDK 1.8.0+
 
